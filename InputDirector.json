@@ -1,0 +1,7 @@
+{
+  "InputDirector": {
+    "debugmode": false,
+    "fileregex": "(AnalysisResults)(.*)",
+
+  }
+}
